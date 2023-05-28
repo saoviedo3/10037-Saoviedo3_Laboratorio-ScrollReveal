@@ -13,4 +13,6 @@ header{
 
 footer{
 	background: url(../img/fondoform.jpg);
+	background-repeat: repeat-y;
+	background-size: cover;
 }
